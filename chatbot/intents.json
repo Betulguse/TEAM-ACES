@@ -1,0 +1,29 @@
+{"intents" :
+    [
+        {
+        "tag" : "greetings",
+        "patterns" : ["hello", "hi", "hey", "good day", "Greetings", "what's up", "how is it going?" ],
+        "responses" : ["Hello", "Hey", "What can I do for you?"]
+        },
+
+        {
+            "tag" : "goodbye",
+            "patterns" : ["ciao", "see ya later", "bbye", "have a good day", "i am leaving", "bye", "see ya" ],
+            "responses" : ["Sad to see you go :(", "Talk to you later :)", "Goodbye!"]
+        },
+
+        {
+            "tag" : "name",
+            "patterns" : ["what is your name", "what should i call you", "what's you're name?", "who are you?"],
+            "responses" : ["Hello, you can call me Ace, I'm the assistant of team Aces", "Hey, my name is Ace.", "People know me as Ace sir."]
+        },
+
+        {
+            "tag" : "hours",
+            "patterns" : ["service providing duration?", "when can i use the app", "the best time to contact you", "hours of operation", "what are your hours?"],
+            "responses" : ["12-12 AM", "We're avaialable 24*7", "24/7..........Sir"]
+        }
+
+
+    ]
+}
