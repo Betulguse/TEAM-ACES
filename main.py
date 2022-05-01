@@ -38,14 +38,6 @@ print("\n\n")
 print("************************************************************************************************************")
 
 
-# while True:
-    # sleep(60)
-    # df1 = getsymbol('BTCUSDT', '1m', '1')
-    # df1.to_sql("PRICES", engine,  if_exists="append", index=False)
-    # print(df1)
-    # print("\n_________________________________________________________________________________________________")
-
-
 # Trend = if the crypto was rising by some x% --> buy
 # exit when  profit is above 0.15% (genereal tax of binance) or loss is crossing -0.15%
 
