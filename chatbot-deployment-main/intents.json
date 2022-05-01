@@ -22,47 +22,6 @@
             "tag" : "hours",
             "patterns" : ["service providing duration?", "when can i use the app", "the best time to contact you", "hours of operation", "what are your hours?"],
             "responses" : ["12-12 AM", "We're avaialable 24*7", "24/7..........Sir"]
-        },
-        {
-            "tag" : "",
-            "patterns": [""],
-            "responses": [""]
-        },
-
-        {
-            "tag" : "",
-            "patterns": [""],
-            "responses": [""]
-        },
-
-        {
-            "tag" : "",
-            "patterns": [""],
-            "responses": [""]
-        },
-
-        {
-            "tag" : "",
-            "patterns": [""],
-            "responses": [""]
-        },
-
-        {
-            "tag" : "",
-            "patterns": [""],
-            "responses": [""]
-        },
-
-        {
-            "tag" : "",
-            "patterns": [""],
-            "responses": [""]
-        },
-
-        {
-            "tag" : "",
-            "patterns": [""],
-            "responses": [""]
         }
 
 
